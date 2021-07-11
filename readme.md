@@ -1,7 +1,7 @@
 # What mistakes I made in this practice:
-> Misunderstanding the requirement. 
-> Do validation first. 
-> Split into small peaces first. 
+> Misunderstanding the requirement.   
+> Do validation first.    
+> Split into small peaces first.    
 
 
 ## Initial Setup
