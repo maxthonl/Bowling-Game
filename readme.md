@@ -1,4 +1,8 @@
-# dotnet core 5 template
+# What mistakes I made in this practice:
+> Misunderstanding the requirement. 
+> Do validation first. 
+> Split into small peaces first. 
+
 
 ## Initial Setup
 
